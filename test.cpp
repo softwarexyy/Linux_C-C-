@@ -11,4 +11,5 @@ using namespace std;
 int main()
 {
     cout << "This is used for learning Git." << endl;
+    return 0;
 }
